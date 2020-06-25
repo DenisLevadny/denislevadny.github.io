@@ -5,9 +5,129 @@
     <description>Не проблемы должны толкать вас в спину, а вперед вести мечты.</description>
     <link>http://localhost:4000/jekyll-theme-memoirs/</link>
     <atom:link href="http://localhost:4000/jekyll-theme-memoirs/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jun 2020 17:18:48 +0300</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2020 17:18:48 +0300</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2020 21:16:32 +0300</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2020 21:16:32 +0300</lastBuildDate>
     <generator>Jekyll v4.1.0</generator>
+    
+      <item>
+        <title>Руководство с примерами по написанию постов на Jekyll markdown</title>
+        <description>&lt;h4 id=&quot;заголовки&quot;&gt;Заголовки&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Заголовки&quot;&gt;Заголовок первого уровня
+========================
+Заголовок второго уровня
+-------------------------
+
+#  Заголовок первого уровня
+### Заголовок третьего уровня
+###### Заголовок шестого уровня
+
+#  Заголовок первого уровня #
+### Заголовок третьего уровня ###
+###### Заголовок шестого уровня ######
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;цитаты&quot;&gt;Цитаты&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Цитаты&quot;&gt;&amp;gt; Первый уровень цитирования
+&amp;gt;&amp;gt; Второй уровень цитирования
+&amp;gt;&amp;gt;&amp;gt; Третий уровень цитирования
+&amp;gt;
+&amp;gt;Первый уровень цитирования
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;списки&quot;&gt;Списки&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Списки&quot;&gt;* Проводник
++ Полупроводник
+- Диэлектрик
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Списки&quot;&gt;1. Проводник
+2. Полупроводник
+3. Диэлектрик
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;горизонтальные&quot;&gt;Горизонтальные&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Горизонтальные&quot;&gt;Первая часть текста, который необходимо разделить
+***
+Вторая часть текста, который необходимо разделить
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Горизонтальные&quot;&gt;Первая часть текста, который необходимо разделить
+
+-- -- -  -- --- 
+
+Вторая часть текста, который необходимо разделить
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;ссылки&quot;&gt;Ссылки&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ссылки&quot;&gt;[название](http://example.com/ &quot;Необязательная подсказка при наведении&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ссылки&quot;&gt;&amp;lt;http://example.com/&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;В результате на экран выводится следующее: &lt;a href=&quot;http://example.com/&quot;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ссылки&quot;&gt;&amp;lt;address@example.com&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Локальные сноски по id&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ссылки&quot;&gt;[название] [id]:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;В этом случае возможно определить идентификатор в любом месте документа&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ссылки&quot;&gt;[id]: http://example.com/ &quot;Необязательная подсказка&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;выделение&quot;&gt;Выделение&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Выделение&quot;&gt;*курсив*
+_курсив_
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Выделение&quot;&gt;**полужирный**
+__полужирный__
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Выделение&quot;&gt;***полужирный курсив***
+___полужирный курсив___
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;изображения&quot;&gt;Изображения&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Изображения&quot;&gt;![Альтернативный текст](/путь/к/изображению.jpg &quot;Необязательная подсказка&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Изображения&quot;&gt;![Альтернативный текст][id]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Изображения&quot;&gt;[id]: путь/к/изображению &quot;Необязательная подсказка&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Квадратные скобки, в которых указывается альтернативный изображению текст (он станет содержимым атрибута в элементе img)&lt;/p&gt;
+
+&lt;p&gt;Markdown не позволяет задать размеры изображения (ширину, высоту)&lt;/p&gt;
+
+&lt;h3 id=&quot;обратный-слеш&quot;&gt;Обратный слеш&lt;/h3&gt;
+
+&lt;p&gt;Может употребляться в Markdown перед специальными символами для того, чтобы они воспринимались в их буквальном (а не служебном) значении.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jun 2020 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/jekyll-theme-memoirs/jekyll-post-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/jekyll-post-tutorial/</guid>
+        
+        <category>writing a post on Jekyll</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Идеи по поводу запуска интернет магазина</title>
@@ -27,7 +147,7 @@
         <link>http://localhost:4000/jekyll-theme-memoirs/start-internet-store/</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/start-internet-store/</guid>
         
-        <category>Интернет-магазин</category>
+        <category>Online store</category>
         
         
         <category>Dinariumi</category>
@@ -43,6 +163,7 @@
 &lt;p&gt;To the south, it is bounded by the Sahel, a belt of &lt;strong&gt;semi-arid tropical savanna&lt;/strong&gt; around the Niger River valley and the Sudan Region of Sub-Saharan Africa. The Sahara can be divided into several regions including: the western Sahara, the central Ahaggar Mountains, the Tibesti Mountains, the Aïr Mountains, the Ténéré desert, and the Libyan Desert.&lt;/p&gt;
 
 &lt;p&gt;For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000 year cycle caused by the precession of the Earth’s axis as it rotates around the Sun, which changes the location of the North African Monsoon. The area is next expected to become green in about 15,000 years (17,000 AD).&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 01 Feb 2020 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/jekyll-theme-memoirs/much-more-than-a-desert-trip-to-sahara/</link>
@@ -246,29 +367,6 @@ rating: 4.5
         <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/french-wine/</guid>
         
         <category>France</category>
-        
-        
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>The Observer - National Gallery of Art, Washington, United States</title>
-        <description>&lt;p&gt;The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The core collection includes major works of art donated by Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener, and Chester Dale.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Gallery’s collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts traces the development of Western Art from the Middle Ages to the present, including the only painting by Leonardo da Vinci in the Americas and the largest mobile created by Alexander Calder.&lt;/p&gt;
-
-&lt;p&gt;The Gallery’s campus includes the original neoclassical West Building designed by John Russell Pope, which is linked underground to the modern East Building, designed by I. M. Pei, and the 6.1-acre (25,000 m2) Sculpture Garden.&lt;/p&gt;
-
-&lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/the-observer/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/the-observer/</guid>
         
         
         <category>Lifestyle</category>

@@ -3,7 +3,7 @@
 ---
 
 $brown: #B59F62;
-$teal: #40FFDC;
+$teal: #00D6FF;
 $black: #111;
 $primary: $teal;
 $dark:    $black;
@@ -18,14 +18,15 @@ $enable-rounded: false;
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Segoe UI;
+    font-family: Open Sans, Segoe UI;
 }
 body {
     line-height:1.7;
-    background: #f4f4f4;
+    background: #333333;
+    color:#dddddd;
 }
 a {
-    color: darken($primary, 24%);
+    color: darken($primary, 7%);
 }
 img {
     max-width:100%;
@@ -35,16 +36,18 @@ img {
 h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
+
 .site-content {
-    padding-top:50px;
+    padding-top:3px;
 }
 .sitetag {
     font-weight:700;    
     line-height:1.3;
     font-size:35px;
     @include media-breakpoint-up(sm) {
-        font-size:50px;
+        font-size: 31px;
         line-height:1.2;
+        color:#dddddd;
     }
 }
 .bigradius {
@@ -56,12 +59,11 @@ h1,h2,h3,h4,h5,h6 {
 .btn {
     min-width: 180px;
 }
-blockquote {
-    font-family: Times New Roman;
+blockquote { 
     font-style: italic;
     font-size: 20px;
     position:relative;
-    border-left:1px solid $dark;
+    border-left:2px solid $yellow;
     margin-left:30px;
     padding-left:15px;
     cite {
@@ -126,9 +128,10 @@ img, img:hover {
     height: 100%;
     border-right: solid rgba(0, 0, 0, 0.07) 1px;
     z-index: 1022;
-    background:#fff;
+    background:#444444;
 }
 .nav-icon {
+    background-color: #dddddd;
     position: fixed;
     left: 15px;
     top: 15px;
@@ -193,7 +196,7 @@ img, img:hover {
     left: 0;
     height: 100%;
     width: 420px;
-    background: #fff;
+    background: #444444;
     padding: 0;
     margin: 0;
     transform: translate(-100%, 0);
@@ -218,7 +221,7 @@ img, img:hover {
                 line-height: 20px;
                 text-decoration: none;
                 color: #8E9AA7;
-                font-weight: 400;
+                font-weight: 700;
                 font-size: 18px;
                 position: relative;
             }
@@ -247,6 +250,8 @@ img, img:hover {
         margin-right: 7px;
     }
     .card {
+        background-color: #444444;
+        color: #dddddd;
         border:0;
         &:hover {           
            .card-title a { 
@@ -276,6 +281,7 @@ img, img:hover {
         margin-top:15px;
     }
     .card-footer {
+       background-color: #444444;
        font-size:14px;
         border-top:0;
         padding: 1rem 1.25rem;
@@ -337,11 +343,11 @@ img, img:hover {
 .pagination {
     justify-content:center;
     a {
-        background: rgba(0,0,0,0.05);
-        color:#000;
+        background: rgba(0,0,0,0.14);
+        color:#dddddd;
         cursor:pointer;
         &:hover {
-            background: $primary;
+            background: $gray-900;
             text-decoration:none;
         }
     }
@@ -360,15 +366,18 @@ img, img:hover {
 
 //newsletter
 .newsletter {
+    border-top: 1px dotted #FFCC00;
+    color:#dddddd;
     h4 {
         line-height:1.3;
     }
-    margin-top:120px;   
+    margin-top:20px;   
     img.newsletter-logo {
         max-height:70px;
     } 
     input {
         border:1px solid transparent;
+        background:#dddddd;
     }
     .mc-field-group {
         border:1px solid;
@@ -388,7 +397,7 @@ img, img:hover {
         }
     }
     form {
-        margin-top:30px;
+        margin-top:10px;
     }
 }
 
@@ -402,7 +411,7 @@ img, img:hover {
 }
 .posttitle {
     font-size:50px;
-    font-weight:700;
+    font-weight:400;
     line-height:1.2;
 }
 .entry-featured-image {  
@@ -454,9 +463,15 @@ img, img:hover {
     code[class*="language-"], pre[class*="language-"] {
         font-size:15px;
         margin-bottom:30px;
-        background: #fff;
+        background: #222222;
         color:inherit;
+        text-shadow: none;
     }
+               // убрал лишний код из блоков с кодом
+                .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string {
+                   background: none;
+                }
+
     div.code-toolbar > .toolbar a, div.code-toolbar > .toolbar button, div.code-toolbar > .toolbar span {
         margin-right:2px;
         margin-left:2px;
@@ -531,7 +546,7 @@ img, img:hover {
         li {
             margin:15px 0;
             a {
-                color:$dark;
+                color:#dddddd;
             }
         }
     }
@@ -541,7 +556,7 @@ img, img:hover {
 .show-search {
     cursor:pointer;
     &:hover {
-        color: darken($primary,20%);
+        color: darken($primary,1%);
     }
 }
 .bd-search {
@@ -604,7 +619,7 @@ body.active-side {
     padding:30px;
     border-top:1px solid $gray-200;
     font-size:15px;
-    background:#000;
+    background:#212121;
 }
 
 //responsive tweaks
@@ -730,4 +745,29 @@ body.active-side {
             height:35px;
         }
     }
+}
+
+// back to top button
+.back_to_top {
+  position: fixed;
+  bottom: 80px;
+  right: 40px;
+  z-index: 9999;
+  width: 56px;
+  height: 56px;
+  text-align: center;
+  line-height: 52px;
+  background: rgba(8, 11, 16, 0);
+  color: #000;
+  cursor: pointer;
+  border-radius: 28px;
+  display: none;
+}
+
+.back_to_top:hover {
+  background: #666666;
+}
+
+.back_to_top-show {
+  display: block;
 }

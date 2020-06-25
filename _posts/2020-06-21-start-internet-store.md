@@ -3,7 +3,7 @@ layout: post
 title:  "Идеи по поводу запуска интернет магазина"
 author: Denis
 categories: [ Dinariumi ]
-tags: [ Интернет-магазин ]
+tags: [ Online store ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
