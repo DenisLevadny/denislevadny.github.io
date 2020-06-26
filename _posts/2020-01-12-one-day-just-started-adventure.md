@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One day we just started our adventure"
-author: Denis
+author: Aurika
 categories: [ Travel ]
 image: assets/images/15.jpg
 ---
