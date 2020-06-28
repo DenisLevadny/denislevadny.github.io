@@ -26,23 +26,32 @@ toc: true
 ***
 ***
 ##### Джо Роган и Сэм Харрис о медитации и мыслях
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6f5RkziQwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ***
 ***
 ##### Пробуждение: духовность без религии - Лекция
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkAnn9cma6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 В природе твоего сознания в текущий момент кроется на много больше чем состояния ноторые ты испытываешь рассматривая Хабл или слушая Моцарта (духовные переживания), ...
 
 ***
 ***
 ##### Пробуждение: духовность без религии - Ответы на вопросы
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwmGzh--4Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ***
 ***
 ##### О религии
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aodQZ3dw-ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ***
 ***
