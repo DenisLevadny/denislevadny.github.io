@@ -2,7 +2,7 @@
 layout: post
 title:  "Сэм Харрис"
 author: Denis
-categories: [ yoga tutorial ]
+categories: [ yoga ]
 tags: [ guru ]
 image: assets/images/Sam_Harris.jpg
 description: "Sam_Harris"
