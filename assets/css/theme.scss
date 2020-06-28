@@ -37,6 +37,13 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
 
+hr {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: $yellow; /* Цвет линии для остальных браузеров */
+    background-color: $yellow; /* Цвет линии для браузера Firefox и Opera */
+    height: 2px; /* Толщина линии */
+   }
+
 .site-content {
     padding-top:3px;
 }
@@ -153,7 +160,7 @@ img, img:hover {
             position: absolute;
             width: 18px;
             height: 2px;
-            background: #292C30;
+            background: #dddddd;
             border-radius: 1px;
         }
         &:before {
