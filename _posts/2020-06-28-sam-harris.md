@@ -15,6 +15,7 @@ rating: 5
 Медитация 29:42
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZXw3eGRpR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Все что у нас в действительности есть это настоящий момент - к которому мы постоянно прикованы.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6f5RkziQwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
