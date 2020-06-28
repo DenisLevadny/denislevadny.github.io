@@ -27,6 +27,11 @@ body {
 	                            display: flex;
                                     flex-direction: column;
 }
+
+                                .site-content {
+                                flex-grow: 1;	
+                               }
+
 a {
     color: darken($primary, 7%);
 }
@@ -246,7 +251,6 @@ img, img:hover {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     grid-gap: 30px;
-	                                flex-grow: 1;
 }
 .blog-grid-item {  
     color: #333;
@@ -476,7 +480,7 @@ img, img:hover {
         color:inherit;
         text-shadow: none;
     }
-               // убрал лишний код из блоков с кодом
+               // убрал лишний фон из блоков с кодом
                 .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string {
                    background: none;
                 }
