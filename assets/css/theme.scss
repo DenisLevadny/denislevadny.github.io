@@ -630,12 +630,12 @@ body.active-side {
 
 //responsive tweaks
 @media (min-width: 768px) {
-    .container, .container-sm, .container-md, .container-lg, .video-container iframe {
+    .container, .container-sm, .container-md, .container-lg, .iframe {
         max-width: 80%;
     }
 }
 @media (min-width: 1440px) {
-    .container, .container-sm, .container-md, .container-lg, .video-container iframe {
+    .container, .container-sm, .container-md, .container-lg, .iframe {
         max-width: 1140px;
     }
 }
