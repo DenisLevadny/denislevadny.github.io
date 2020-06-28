@@ -28,6 +28,7 @@ rating: 5
 ***
 ##### Пробуждение: духовность без религии - Лекция
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkAnn9cma6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+В природе твоего сознания в текущий момент кроется на много больше чем состояния ноторые ты испытываешь рассматривая Хабл или слушая Моцарта (духовные переживания), ...
 ***
 ***
 ##### Пробуждение: духовность без религии - Ответы на вопросы
