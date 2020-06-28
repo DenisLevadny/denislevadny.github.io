@@ -23,18 +23,18 @@ rating: 5
 
 ##### Джо Роган и Сэм Харрис о медитации и мыслях
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6f5RkziQwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+***
 
 ##### Пробуждение: духовность без религии - Лекция
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkAnn9cma6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+***
 
 ##### Пробуждение: духовность без религии - Ответы на вопросы
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwmGzh--4Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+***
 
 ##### О религии
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aodQZ3dw-ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+***
 
 Камера сенсорной депривации, или флоатинг-капсула (2-ое видео)
