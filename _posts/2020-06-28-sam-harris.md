@@ -15,7 +15,9 @@ toc: true
 
 
 ##### Смерть и настоящий момент.
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZXw3eGRpR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Медитация 29:42
 
