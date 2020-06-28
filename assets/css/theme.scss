@@ -754,13 +754,13 @@ body.active-side {
 }
 
 // adaptive video
-.video {
+.ytp-cued-thumbnail-overlay-image {
   height: 0;
   position: relative;
   padding-bottom: 56.25%;
 }
 
-.video iframe {
+.ytp-cued-thumbnail-overlay-image iframe {
   position: absolute;
   left: 0;
   top: 0;
