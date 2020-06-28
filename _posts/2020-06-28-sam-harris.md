@@ -13,7 +13,7 @@ rating: 5
 
 
 
-###Смерть и настоящий момент.
+### Смерть и настоящий момент.
 <iframe width="580" height="335" src="https://www.youtube.com/embed/iZXw3eGRpR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Медитация 29:42
@@ -22,21 +22,21 @@ rating: 5
 
 
 
-###Джо Роган и Сэм Харрис о медитации и мыслях
+### Джо Роган и Сэм Харрис о медитации и мыслях
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6f5RkziQwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-###Пробуждение: духовность без религии - Лекция
+### Пробуждение: духовность без религии - Лекция
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkAnn9cma6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-###Пробуждение: духовность без религии - Ответы на вопросы
+### Пробуждение: духовность без религии - Ответы на вопросы
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwmGzh--4Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-###О религии
+### О религии
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aodQZ3dw-ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
