@@ -15,8 +15,11 @@ rating: 5
 
 ##### Смерть и настоящий момент.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZXw3eGRpR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Медитация 29:42
+
 Все что у нас в действительности есть - это настоящий момент - к которому мы постоянно прикованы.
+
 ***
 ***
 ##### Джо Роган и Сэм Харрис о медитации и мыслях
