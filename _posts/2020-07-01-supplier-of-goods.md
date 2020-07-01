@@ -20,9 +20,9 @@ image: assets/images/supplier-of-goods.png
 ##### Списк вариантов:
 
 1. Писковик - [Яндекс]( https://yandex.ua/ ), [Google]( https://www.google.com/ ) "Купить носки оптом"
-2. Китай - [Aliexpress]( https://Aliexpress.com/ ), [Alibaba]( https://Alibaba.com/ ), [Taobao]( https://Taobao.com/ ), [1688]( https://1688.com/ ), [GlobalSources]( https://GlobalSources.com/ ), [Chinabrands]( https://Chinabrands.com/ ), [DHgate]( https://DHgate.com/ ), [Made-in-China]( https://Made-in-China.com/ ), [HKTDC]( https://HKTDC.com/ ), ...
+2. Китай - [Aliexpress]( https://Aliexpress.com/ ), [Alibaba]( https://Alibaba.com/ ), [Taobao]( https://Taobao.com/ ), [1688]( https://1688.com/ ), [GlobalSources]( https://GlobalSources.com/ ), [Chinabrands]( https://Chinabrands.com/ ), [DHgate]( https://DHgate.com/ ), [Made-in-China]( https://www.made-in-china.com/ ), [HKTDC]( https://www.hktdc.com/ ), ...
 3. [Китайский компот]( https://sinocom.ru/ )
-4. Агрегаторы поставщиков [Турбопарсер] ( https://turboparser.ru/ )
+4. Агрегаторы поставщиков [Турбопарсер]( https://turboparser.ru/ )
 5. Доски объявлений: Avito, Olx.
 6. Tiu.ru (агрегаторы товаров)
 7. Социальные сети. Группы вконтакте. Поиск по групппам: "товары оптом" (задавать вопросы подписчикам поп поводу качества)
