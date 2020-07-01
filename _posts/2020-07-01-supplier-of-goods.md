@@ -23,7 +23,7 @@ image: assets/images/supplier-of-goods.png
 2. Китай - [Aliexpress]( https://Aliexpress.com/ ), [Alibaba]( https://Alibaba.com/ ), [Taobao]( https://Taobao.com/ ), [1688]( https://1688.com/ ), [GlobalSources]( https://GlobalSources.com/ ), [Chinabrands]( https://Chinabrands.com/ ), [DHgate]( https://DHgate.com/ ), [Made-in-China]( https://www.made-in-china.com/ ), [HKTDC]( https://www.hktdc.com/ ), ...
 3. [Китайский компот]( https://sinocom.ru/ )
 4. Агрегаторы поставщиков [Турбопарсер]( https://turboparser.ru/ )
-5. Доски объявлений: Avito, Olx.
+5. Доски объявлений: [Avito](https://www.avito.ru/), [Olx]( https://www.olx.ua/ ).
 6. Tiu.ru (агрегаторы товаров)
 7. Социальные сети. Группы вконтакте. Поиск по групппам: "товары оптом" (задавать вопросы подписчикам поп поводу качества)
 8. Местрые рынки (барахолки)- можно брать на реализацию. (подходит в начале)
