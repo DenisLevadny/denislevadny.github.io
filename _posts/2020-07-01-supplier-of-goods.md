@@ -15,9 +15,9 @@ description: "Sam_Harris"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S9yWiCD6RUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*****Списк вариантов:*****
+##### Списк вариантов:
 
-1. Писковик - Яндекс, Google "Купить носки оптом"
+1. Писковик - [Яндекс]( https://yandex.ua/ ), [Google]( https://www.google.com/ ) "Купить носки оптом"
 2. Китай - Aliexpress, Alibaba, Taobao, 1688, GlobalSources, Chinabrands, DHgate, Made-in-China, HKTDC, ...
 3. Китайский компот ( https://sinocom.ru/ )
 4. Турбопарсер - агрегатор поставщиков ( https://turboparser.ru/ )
