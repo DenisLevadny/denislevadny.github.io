@@ -9,6 +9,28 @@ image: assets/images/pavel_dmitriev.jpg
 ---
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dl9d-jj1710" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YMvX7S9JaGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oAq8IkopJzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTPMgJ8y7C8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M_cfL_pKXhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 Вы продаёте людям деньги.
 Лучше чем деньги в мире не продаётся ничто.
 
@@ -60,7 +82,6 @@ image: assets/images/pavel_dmitriev.jpg
 Взять жизнь и все свои убеждения. 
 Вы пришли в магазин и можете заменить одни убеждения на другие. Что бы вы поменяли? 
 Идеал - это убеждение он подстроен так, чтобы вы никогда никуда не вылезли. 
-
 У каждого человека есть метафора его жизни. Что значит твоя жизнь, с чем бы ты её сравнил? Жизнь это -... (борьба) 
 Вас это устраивает? Вы хотите бороться всю жизнь? 
 
@@ -72,11 +93,8 @@ image: assets/images/pavel_dmitriev.jpg
 Пример: 1если занял доллар и тебе вернули - второй доллар занимать уже легче. 2если попросили встать и потом подойти - подойти уже легче. Дали 3 рубля цеганке и уже легче 25 дать. 
 
 6. Симптом вызванный эмоцией вызывает органической изменение если действует достаточно долго. 
-
 Инстинкты - самое мощное что в человеке есть. Если подавить то человек страдает. 
 
-7. При работе с подсознанием и его функциями чем сильнее сознательная попытка тем слабее подсознательная реакция. Чем больше вы стараетесь и напрягаетесь тем меньше оно работает. 
-
-Подсознание не умеет напрягаться у него всегда всё плавно и расслаблено. (в расслаблении). 
+7. При работе с подсознанием и его функциями чем сильнее сознательная попытка тем слабее подсознательная реакция. Чем больше вы стараетесь и напрягаетесь тем меньше оно работает. Подсознание не умеет напрягаться у него всегда всё плавно и расслаблено. (в расслаблении). 
 
 8. Всё привычки находятся в подсознании.
