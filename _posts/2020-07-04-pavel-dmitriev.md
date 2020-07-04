@@ -14,32 +14,33 @@ image: assets/images/pavel_dmitriev.jpg
 Рекламное объявление: "Избавляю от психологических блоков на деньги". 
 Гипноз это инструмент который позволяет человеку изменить модель поведения, и модель ощущения.
 
-
+***
+***
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dl9d-jj1710" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
+***
+***
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YMvX7S9JaGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
+***
+***
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oAq8IkopJzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
+***
+***
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CTPMgJ8y7C8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
+***
+***
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M_cfL_pKXhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
+***
+***
 Вы продаёте людям деньги.
 Лучше чем деньги в мире не продаётся ничто.
 
