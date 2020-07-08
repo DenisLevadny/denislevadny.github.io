@@ -41,6 +41,11 @@ image: assets/images/pavel_dmitriev.jpg
 </div>
 ***
 ***
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9xrTwm-U3Fc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+***
+***
 Вы продаёте людям деньги.
 Лучше чем деньги в мире не продаётся ничто.
 
