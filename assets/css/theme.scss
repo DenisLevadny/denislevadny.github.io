@@ -833,16 +833,30 @@ body.active-side {
         color: $black;
     }
 
+// color text background
 
     .highlight-black {
         background-color: $black;
     }
-    .highlight-cyan {
-        background-color: $cyan;
+    .highlight-green {
+        background-color: $green;
+	color: $black;
     }
     .highlight-teal {
         background-color: $teal;
+	color: $black;
     }
-    .highlight-indigo {
-        background-color: $indigo;
+    .highlight-yellow {
+        background-color: $yellow;
+	color: $black;
     }
+   .highlight-red {
+        background-color: $red;
+	color: $black;
+    }
+     .highlight-orange {
+        background-color: $orange;
+	color: $black;
+    }
+
+
