@@ -28,6 +28,8 @@ toc: true
 ```
 #### Цветной текст
 
+привет
+{: .color-blue}
 <span class="color-blue">Some</span>
 <span class="color-green">cool</span>
 <span class="color-orange">colorful</span>
