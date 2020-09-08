@@ -27,6 +27,47 @@ toc: true
 ###### Заголовок шестого уровня ######
 ```
 
+#### Цветной текст
+
+blue
+{: .color-blue}
+
+indigo
+{: .color-indigo}
+
+purple
+{: .color-purple}
+
+pink
+{: .color-pink}
+
+red
+{: .color-red}
+
+orange
+{: .color-orange}
+
+yellow
+{: .color-yellow}
+
+green
+{: .color-green}
+
+teal
+{: .color-teal}
+
+cyan
+{: .color-cyan}
+
+white
+{: .color-white}
+
+black
+{: .highlight-black}
+
+gray-indigo
+{: .highlight-indigo}
+
 
 #### Цитаты
 
