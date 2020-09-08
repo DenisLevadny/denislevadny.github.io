@@ -28,7 +28,7 @@ toc: true
 ```
 #### Цветной текст
 
-<span class="color-blue">Some</span>
+<span class="blue">Some</span>
 <span class="color-green">cool</span>
 <span class="color-orange">colorful</span>
 <span class="color-red">text.</span><br>
