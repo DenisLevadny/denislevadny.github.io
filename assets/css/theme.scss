@@ -797,27 +797,59 @@ body.active-side {
 
 //colr text
 
-.color-red {
-        color: $brown;
+    .color-blue {
+        color: $blue;
+    }
+    .color-indigo {
+        color: $indigo;
+    }
+    .color-purple {
+        color: $purple;
+    }
+    .color-pink{
+        color: $pink;
+    }
+    .color-red {
+        color: $red;
     }
     .color-orange {
-        color: #eb9800;
+        color: $orange;
     }
-    .color-green {
-        color:#00eb1d;
+    .color-yellow {
+        color: $yellow;
     }
-    .color-blue{
-        color: #0062ff;
+    .color-green{
+        color: $green;
     }
-    .highlight-red {
-        background-color: #ffaaaa;
+    .color-teal {
+        color: $teal;
     }
-    .highlight-orange {
-        background-color: #ffd486;
+    .color-cyan {
+        color: $cyan;
     }
-    .highlight-green {
-        background-color: #aaffad;
+    .color-gray {
+        color: $gray;
     }
-    .highlight-blue {
-        background-color: #d8e7ff;
+    .color-gray-dark{
+        color: $gray-dark;
+    }
+    .color-white {
+        color: $white;
+    }
+    .color-black {
+        color: $black;
+    }
+
+
+    .highlight-black {
+        background-color: $black;
+    }
+    .highlight-cyan {
+        background-color: $cyan;
+    }
+    .highlight-teal {
+        background-color: $teal;
+    }
+    .highlight-gray-dark {
+        background-color: $gray-dark;
     }
