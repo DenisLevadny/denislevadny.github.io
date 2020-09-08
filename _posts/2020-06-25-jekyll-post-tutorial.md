@@ -29,20 +29,7 @@ toc: true
 
 #### Цветной текст
 
-orange
-{: .color-orange}
-yellow
-{: .color-yellow}
-green
-{: .color-green}
-teal
-{: .color-teal}
-
-orange text
-{: .highlight-orange}
-
-
-Это <span class="color-blue">blue</span> текст
+Это <span class="color-blue">blue</span>
 <span class="color-green">green</span>
 <span class="color-orange">orange</span>
 <span class="color-indigo">indigo</span>
@@ -51,7 +38,7 @@ orange text
 <span class="color-yellow">yellow</span>
 <span class="color-teal">teal</span>
 <span class="color-cyan">cyan</span>
-<span class="color-red">red</span><br>
+<span class="color-red">red</span> текст<br>
 
 <span class="highlight-teal">teal</span>
 <span class="highlight-green">green</span>
@@ -183,6 +170,20 @@ Markdown не позволяет задать размеры изображен�
 ### Обратный слеш
 
 Может употребляться в Markdown перед специальными символами для того, чтобы они воспринимались в их буквальном (а не служебном) значении.
+
+### Присвоить класс фрагменту кода
+
+orange
+{: .color-orange}
+yellow
+{: .color-yellow}
+green
+{: .color-green}
+teal
+{: .color-teal}
+
+orange text
+{: .highlight-orange}
 
 
 ![octojekyll](/assets/images/octojekyll1.png "octojekyll")
