@@ -26,6 +26,31 @@ toc: true
 ### Заголовок третьего уровня ###
 ###### Заголовок шестого уровня ######
 ```
+#### Цветной текст
+
+<span class="color-blue">Some</span>
+<span class="color-green">cool</span>
+<span class="color-orange">colorful</span>
+<span class="color-red">text.</span><br>
+
+<span class="highlight-blue">And</span>
+<span class="highlight-green">some</span>
+<span class="highlight-orange">highlighting</span>
+<span class="highlight-red">styles.</span>
+
+```текст
+<span class="color-blue">Some</span>
+<span class="color-green">cool</span>
+<span class="color-orange">colorful</span>
+<span class="color-red">text.</span><br>
+```
+
+```фон
+<span class="highlight-blue">And</span>
+<span class="highlight-green">some</span>
+<span class="highlight-orange">highlighting</span>
+<span class="highlight-red">styles.</span>
+```
 
 #### Цитаты
 
