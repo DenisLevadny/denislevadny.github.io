@@ -32,7 +32,9 @@ toc: true
 blue
 {: .color-blue}
 
-indigo{: .color-indigo} purple{: .color-purple} pink{: .color-pink}
+indigo {: .color-indigo} 
+purple {: .color-purple} 
+pink {: .color-pink}
 
 red
 {: .color-red}
