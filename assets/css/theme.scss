@@ -793,3 +793,32 @@ body.active-side {
 .back_to_top-show {
   display: block;
 }
+
+
+//colr text
+
+.color-red {
+        color: #FF0F00;
+    }
+    .color-orange {
+        color: #eb9800;
+    }
+    .color-green {
+        color:#00eb1d;
+    }
+    .color-blue{
+        color: #0062ff;
+    }
+    .highlight-red {
+        $brown;
+    }
+    .highlight-orange {
+        background-color: #ffd486;
+    }
+    .highlight-green {
+        background-color: #aaffad;
+    }
+    .highlight-blue {
+        background-color: #d8e7ff;
+    }
+}
