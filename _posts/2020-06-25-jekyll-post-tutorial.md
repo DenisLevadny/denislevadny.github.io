@@ -42,22 +42,23 @@ orange text
 {: .highlight-orange}
 
 
-Это <span class="color-blue">синий</span> текст
-<span class="color-green">зеленый</span>
-<span class="color-orange">оранжевый</span>
-<span class="color-indigo">оранжевый</span>
-<span class="color-purple">оранжевый</span>
-<span class="color-pink">оранжевый</span>
-<span class="color-yellow">оранжевый</span>
-<span class="color-teal">оранжевый</span>
-<span class="color-cyan">оранжевый</span>
-<span class="color-red">красный</span><br>
+Это <span class="color-blue">blue</span> текст
+<span class="color-green">green</span>
+<span class="color-orange">orange</span>
+<span class="color-indigo">indigo</span>
+<span class="color-purple">purple</span>
+<span class="color-pink">pink</span>
+<span class="color-yellow">yellow</span>
+<span class="color-teal">teal</span>
+<span class="color-cyan">cyan</span>
+<span class="color-red">red</span><br>
 
-<span class="highlight-orange">And</span>
-<span class="highlight-green">some</span>
-<span class="highlight-yellow">highlighting</span>
-<span class="highlight-teal">styles.</span>
-<span class="highlight-red">styles.</span>
+<span class="highlight-teal">teal</span>
+<span class="highlight-green">green</span>
+<span class="highlight-orange">orange</span>
+<span class="highlight-red">red</span>
+<span class="highlight-black">black</span>
+<span class="highlight-yellow">yellow</span>
 
 ```текст
 <span class="color-blue">Some</span>
@@ -67,10 +68,12 @@ orange text
 ```
 
 ```фон
-<span class="highlight-blue">And</span>
-<span class="highlight-green">some</span>
-<span class="highlight-orange">highlighting</span>
-<span class="highlight-red">styles.</span>
+<span class="highlight-teal">teal</span>
+<span class="highlight-green">green</span>
+<span class="highlight-orange">orange</span>
+<span class="highlight-red">red</span>
+<span class="highlight-black">black</span>
+<span class="highlight-yellow">yellow</span>
 ```
 
 
