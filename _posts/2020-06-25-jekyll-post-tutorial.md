@@ -31,11 +31,12 @@ toc: true
 
 blue
 {: .color-blue}
-
-indigo {: .color-indigo} 
-purple {: .color-purple} 
-pink {: .color-pink}
-
+indigo
+{: .color-indigo} 
+purple
+{: .color-purple} 
+pink
+{: .color-pink}
 red
 {: .color-red}
 orange
@@ -50,11 +51,33 @@ cyan
 {: .color-cyan}
 white
 {: .color-white}
+orange text
+{: .highlight-orange}
 
-black
-{: .highlight-black}
-gray-indigo
-{: .highlight-indigo}
+
+Это <span class="color-blue">синий</span> текст
+<span class="color-green">cool</span>
+<span class="color-orange">colorful</span>
+<span class="color-red">text.</span><br>
+
+<span class="highlight-blue">And</span>
+<span class="highlight-green">some</span>
+<span class="highlight-orange">highlighting</span>
+<span class="highlight-red">styles.</span>
+
+```текст
+<span class="color-blue">Some</span>
+<span class="color-green">cool</span>
+<span class="color-orange">colorful</span>
+<span class="color-red">text.</span><br>
+```
+
+```фон
+<span class="highlight-blue">And</span>
+<span class="highlight-green">some</span>
+<span class="highlight-orange">highlighting</span>
+<span class="highlight-red">styles.</span>
+```
 
 
 #### Цитаты
