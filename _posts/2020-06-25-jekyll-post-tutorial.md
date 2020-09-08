@@ -185,5 +185,12 @@ teal
 orange text
 {: .highlight-orange}
 
+```
+teal
+{: .color-teal}
+
+orange text
+{: .highlight-orange}
+```
 
 ![octojekyll](/assets/images/octojekyll1.png "octojekyll")
