@@ -29,16 +29,6 @@ toc: true
 
 #### Цветной текст
 
-blue
-{: .color-blue}
-indigo
-{: .color-indigo} 
-purple
-{: .color-purple} 
-pink
-{: .color-pink}
-red
-{: .color-red}
 orange
 {: .color-orange}
 yellow
@@ -47,22 +37,26 @@ green
 {: .color-green}
 teal
 {: .color-teal}
-cyan
-{: .color-cyan}
-white
-{: .color-white}
+
 orange text
 {: .highlight-orange}
 
 
 Это <span class="color-blue">синий</span> текст
-<span class="color-green">cool</span>
-<span class="color-orange">colorful</span>
-<span class="color-red">text.</span><br>
+<span class="color-green">зеленый</span>
+<span class="color-orange">оранжевый</span>
+<span class="color-indigo">оранжевый</span>
+<span class="color-purple">оранжевый</span>
+<span class="color-pink">оранжевый</span>
+<span class="color-yellow">оранжевый</span>
+<span class="color-teal">оранжевый</span>
+<span class="color-cyan">оранжевый</span>
+<span class="color-red">красный</span><br>
 
-<span class="highlight-blue">And</span>
+<span class="highlight-orange">And</span>
 <span class="highlight-green">some</span>
-<span class="highlight-orange">highlighting</span>
+<span class="highlight-yellow">highlighting</span>
+<span class="highlight-teal">styles.</span>
 <span class="highlight-red">styles.</span>
 
 ```текст
