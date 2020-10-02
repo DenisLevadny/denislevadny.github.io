@@ -9,7 +9,7 @@ description: "Deviant Moon Tarot - Google Forms"
 ---
 
 
-# Deviant Moon Tarot - Google Forms #
+#Deviant Moon Tarot Тесты#
 
 
 [Старшие Арканы](https://docs.google.com/forms/d/e/1FAIpQLScvFkvBDw9aChsgtLJAyCThuHBY1ZAxneq0utFBH0Ep6Zz8MQ/viewform "пройти тест")
