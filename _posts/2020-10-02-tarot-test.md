@@ -8,8 +8,10 @@ image: assets/images/Deviant-Moon-Tarot.jpg
 description: "Deviant Moon Tarot - Tests"
 ---
 
-Удобные тесты для быстрого запоминания значений карт от автора колоды.
 
+Удобные тесты для быстрого запоминания значений карт от автора колоды. Сделано в "Google Формы". Плюс сайт с полным описанием каждой карты.
+
+[Сайт с подробным описанием и удобной навигацией](https://dinariumi.ml "перейти на сайт")
 
 [Старшие Арканы](https://docs.google.com/forms/d/e/1FAIpQLScvFkvBDw9aChsgtLJAyCThuHBY1ZAxneq0utFBH0Ep6Zz8MQ/viewform "пройти тест")
 
