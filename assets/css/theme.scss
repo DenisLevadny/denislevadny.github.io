@@ -306,7 +306,7 @@ img, img:hover {
     }
     .card-text {
 	font-family: sf-accent, Open Sans, Segoe UI; //добавлено
-     // font-weight:400;
+        font-weight:200;
         font-size:16px;
         line-height:1.8;
         margin-top:15px;
@@ -318,7 +318,8 @@ img, img:hover {
         padding: 1rem 1.25rem;
         a {
             color:inherit;
-            font-weight:700;
+         // font-weight:700;
+	    font-family: sf-accent, Open Sans, Segoe UI; //добавлено
         }
     }
     .post-date {
