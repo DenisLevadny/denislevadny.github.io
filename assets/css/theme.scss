@@ -15,10 +15,30 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
+@font-face {
+	font-family: sf-accent; /* Гарнитура шрифта */
+	src: url(../fonts/sf-accent.woff); /* Путь к файлу со шрифтом */	
+}
+@font-face {
+	font-family: sf-accent-b; /* Гарнитура шрифта */
+	src: url(../fonts/sf-accent-b.woff); /* Путь к файлу со шрифтом */
+}
+@font-face {
+	font-family: sf-accent-i; /* Гарнитура шрифта */
+	src: url(../fonts/sf-accent-i.woff); /* Путь к файлу со шрифтом */
+}
+@font-face {
+	font-family: sf-title; /* Гарнитура шрифта */
+	src: url(../fonts/sf-title.woff); /* Путь к файлу со шрифтом */
+}
+@font-face {
+	font-family: sf-title-b; /* Гарнитура шрифта */
+	src: url(../fonts/sf-title-b.woff); /* Путь к файлу со шрифтом */
+}
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family: Open Sans, Segoe UI;
+    font-family: sf-accent, Open Sans, Segoe UI;
 }
 body {
     line-height:1.7;
