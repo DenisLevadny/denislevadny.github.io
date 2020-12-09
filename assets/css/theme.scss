@@ -251,7 +251,7 @@ img, img:hover {
                 line-height: 20px;
                 text-decoration: none;
                 color: #8E9AA7;
-                font-weight: 700;
+             // font-weight: 700;
                 font-size: 18px;
                 position: relative;
             }
@@ -290,7 +290,7 @@ img, img:hover {
         }
     }
     .card-title {
-        font-weight:700;
+     // font-weight:700;
         font-size:22px;
         line-height:1.4;
         a { 
@@ -306,7 +306,7 @@ img, img:hover {
     }
     .card-text {
 	font-family: sf-accent, Open Sans, Segoe UI; //добавлено
-        font-weight:400;
+     // font-weight:400;
         font-size:16px;
         line-height:1.8;
         margin-top:15px;
@@ -424,7 +424,7 @@ img, img:hover {
             margin-left:-5px;
             background:$primary;
             border-left: 1px solid;
-            font-weight:700;
+        //  font-weight:700;
         }
     }
     form {
@@ -442,7 +442,7 @@ img, img:hover {
 }
 .posttitle {
     font-size:50px;
-    font-weight:400;
+ // font-weight:400;
     line-height:1.2;
 }
 .entry-featured-image {  
@@ -535,7 +535,7 @@ img, img:hover {
         line-height: 1;
         padding: 2px 3px;
         width: 150px;
-        font-family: Arial;
+        font-family: sf-accent, Open Sans, Segoe UI; //добавлено
         text-align: center;
         border-radius: 3px;
         transition: all .4s;
