@@ -55,7 +55,8 @@ img {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-weight:700;
+    font-family: sf-title, Open Sans, Segoe UI; //добавлено
+ // font-weight:700;
 }
 
 hr {
@@ -88,6 +89,7 @@ hr {
     min-width: 180px;
 }
 blockquote { 
+    font-family: sf-accent-i, Open Sans, Segoe UI; //добавлено
     font-style: italic;
     font-size: 20px;
     position:relative;
@@ -95,7 +97,7 @@ blockquote {
     margin-left:30px;
     padding-left:15px;
     cite {
-        font-weight:700;
+       // font-weight:700;
     }
 }
 // animation
