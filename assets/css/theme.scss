@@ -15,15 +15,10 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
-@include font('sf-accent', normal, 500, '../fonts/sf-accent.woff')
-@include font('sf-accent-b', bold, 800, '../fonts/sf-accent-b.woff')
-@include font('sf-accent-i', italic, 500, '../fonts/sf-accent-i.woff')
-@include font('sf-title', normal, 500, '../fonts/sf-title.woff')
-@include font('sf-title-b', bold, 800, '../fonts/sf-title-b.woff')
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family: sf-title, Open Sans, Segoe UI;
+    font-family: Open Sans, Segoe UI;
 }
 body {
     line-height:1.7;
