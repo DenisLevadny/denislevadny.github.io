@@ -21,6 +21,10 @@ The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe
 
 A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.
 
+<span class="spoiler">
+14 the best way to make the game more enjoyable and more fun to be 
+  </span>
+
 #### So how do we add spoilers in this theme?
 
 ```html
