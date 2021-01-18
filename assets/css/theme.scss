@@ -669,9 +669,9 @@ body.active-side {
 }
 @media (max-width: 1024px) {
     .container {
-        width: 90%;
-        max-width:90%;
-        padding-left:20px; //исправлено из 80
+        width: 98%; //90
+        max-width:98%; //90
+        padding-left:10px; //80
     }
     .blog-grid-container {
         grid-template-columns: 1fr 1fr;
