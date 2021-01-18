@@ -41,7 +41,7 @@ body, input, button, select, optgroup, textarea {
    font-family: sf-accent, Open Sans, Segoe UI; //добавлено
 }
 body {
-    line-height:1.7;
+    line-height:1.6;
     background: #333333;
     color:#dddddd;
 }
@@ -671,7 +671,7 @@ body.active-side {
     .container {
         width: 90%;
         max-width:90%;
-        padding-left:80px;
+        padding-left:20px; //исправлено из 80
     }
     .blog-grid-container {
         grid-template-columns: 1fr 1fr;
